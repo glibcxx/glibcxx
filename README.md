@@ -7,3 +7,4 @@ This account has nothing to do with the GNU C++ library. It belongs to a random 
 ## Wanna chat?
 
 - tg group: https://t.me/+eOZVLYpT3D1jODFh
+- dc channel: https://discord.gg/HcQ6zKxAEB
